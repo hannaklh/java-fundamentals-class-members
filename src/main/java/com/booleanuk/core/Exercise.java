@@ -13,7 +13,7 @@ public class Exercise extends ExerciseBase {
 
 
     // 1. Create an integer member named age with a value of 32
-
+    int age = 32;
 
 
     // 2. Create a String member named firstName with a value of "Jane"
